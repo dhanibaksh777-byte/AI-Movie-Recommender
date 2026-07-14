@@ -1,0 +1,10 @@
+GITIGNORE = """
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
+"""
